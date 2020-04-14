@@ -4,4 +4,4 @@
 - 編輯清單標題及內容
 - 設定期限 (時間)
 ### Demo
-<img src="dimage/emo.gif" width="25%" height="25%">
+<img src="image/demo.gif" width="25%" height="25%">
